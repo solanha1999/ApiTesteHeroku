@@ -77,5 +77,32 @@
             "url": "https://via.placeholder.com/600/f66b97",
             "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
         }
+    ],
+    "user": [
+        {
+            "id": 1,
+            "name": "Pedro",
+            "email": "pedro@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Joao",
+            "email": "joao@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Guilherme",
+            "email": "guilherme@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Roger",
+            "email": "roger@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "Ricardo",
+            "email": "ricardo@gmail.com"
+        }
     ]
 }
